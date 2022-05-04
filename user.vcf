@@ -9,6 +9,6 @@ EMAIL;type=INTERNET;type=WORK;type=pref:hersch.resto@gmail.com
 TEL;type=WORK;type=VOICE:+1 (786) 671-5882
 item1.ADR;type=WORK;type=pref:;;800 NE 191st St.\nMiami\,Florida;;;33179;EUA
 item1.X-ABADR:sg
-item2.URL;type=pref:restotracker.com
+item2.URL;type=pref:www.RestoTracker.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
